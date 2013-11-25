@@ -1,11 +1,9 @@
-# BeaconSender
+# iBeaconSender
 
 Ralf Bernert
 
 Website: http://www.bernertmedia.com
-
 Twitter: [@ralfbernert](http://twitter.com/ralfbernert)
-
 E-Mail: ralfbernert@gmx.de 
 
 
@@ -26,3 +24,7 @@ If you are only interested in the sending code for your app just look into this 
 - (void)createAdvertisingBeaconWithPower:(NSNumber *)rssi major:(CLBeaconMajorValue)major mino:(CLBeaconMinorValue)minor
 ```
 There you will find everything you need. It's pretty easy and straight forward.
+
+
+## iBeacon Scanner
+Please see another iBeacon project, the [iBeaconScanner](https://github.com/ralfbernert/iBeaconScanner) that shows all iBeacons in range ordered by proximity.
