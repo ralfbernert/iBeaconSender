@@ -12,7 +12,7 @@ E-Mail: ralfbernert@gmx.de
 ## What is it?
 BeaconSender is a simple XCode project for turning any iOS device (for simplicity it only contains an iPhone storyboard, but runs also on iPad) into an iBeacon sender. 
  
-So if you have an idea for an using several iBeacons and you want to give a try without investing in iBeacon hardware first - this is it.
+So if you have an app idea that requires the use of several iBeacons and you want to give it a try without investing in iBeacon hardware first - this is it.
 
 This is a simple example for how to use iOS CoreLocation's `CBPeripheralManager` class.
 
